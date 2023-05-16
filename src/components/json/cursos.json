@@ -1,10 +1,236 @@
 [
     {
+        "id": 1,
         "nombre": "Curso Básico de Computadores e Informática",
         "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-computacion-basica_badge-930099c0-50d7-45ae-8043-802170eb5d55.png",
         "opiniones": 7844,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
         "contenido": 4,
         "practica": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Curso de Pensamiento Lógico: Algoritmos y Diagramas de Flujo",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas_pensamiento-logico-algoritmos-diagramas-flujo-recovered_badge-df69dcf3-9d9e-.png",
+        "opiniones": 4250,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 10
+
+    },
+    {
+        "id": 3,
+        "nombre": "Curso de Pensamiento Lógico: Manejo de Datos, Estructuras y Funciones",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas_pensamiento-logico-funciones-estructuras-control_badge-a4598ee5-2018-4168-a9.png",
+        "opiniones": 2592,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Curso de Pensamiento Lógico: Lenguajes de Programación",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas_pensamiento-lenguajes-programacion_badge-442dbfe2-2251-4cb8-9529-4317851a751.png",
+        "opiniones": 2005,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 10
+    },
+    {
+        "id": 5,
+        "nombre": "Desafíos de Pensamiento Lógico",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-desafios-semanales-pensamiento-logico_badge-890de884-5fcd-49d2-9329-faf67e4a.png",
+        "opiniones": 2592,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 54
+    },
+    {
+        "id": 6,
+        "nombre": "Curso de Introducción a la Web: Historia y Funcionamiento de Internet",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-introduccion-web-historia-internet-4c18b86e-86f0-4ea0-aa16-5ed1cf53be25.png",
+        "opiniones": 9184,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 10
+    },
+    {
+        "id": 7,
+        "nombre": "Curso de Programación Básica",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-piezas-programacion-basica-ede320eb-b1a9-4f1c-8b61-dd0502bbe4d3.png",
+        "opiniones": 1997,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 15,
+        "practica": 14
+    },
+    {
+        "id": 8,
+        "nombre": "Curso Profesional de Git y GitHub",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "opiniones": 20747,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 6,
+        "practica": 16
+    },
+    {
+        "id": 9,
+        "nombre": "Fundamentos de Ingeniería de Software",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-ing-software-2017-18f503fd-36bd-42d8-b1a1-492865659687.png",
+        "opiniones": 15900,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 6,
+        "practica": 10
+    },
+    {
+        "id": 10,
+        "nombre": "Curso de Historia de la Programación: Lenguajes y Paradigmas",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-historia-lenguajes-paradigmas-50d82f29-78a3-400e-8e59-93620c91beb0.png",
+        "opiniones": 924,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 12
+    },
+    {
+        "id": 11,
+        "nombre": "Curso de Introducción al Pensamiento Computacional con Python",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badges-python-7649ea5b-11c5-4b9b-ab45-5b16f1ac778f.png",
+        "opiniones": 6874,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 4,
+        "practica": 14
+    },
+    {
+        "id": 12,
+        "nombre": "Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-historia-innovacion-emprendimiento-bbed2258-c84a-4a3c-ad4e-d78f85266837.png",
+        "opiniones": 1911,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 2
+    },
+    {
+        "id": 13,
+        "nombre": "Curso de Tecnología para Gerentes y Directores",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-tecnologia-gerentes-directores-tecnicos-4a90110d-00c0-4379-a708-cce1111e5ff8.png",
+        "opiniones": 3508,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 5,
+        "practica": 10
+    },
+    {
+        "id": 14,
+        "nombre": "Curso de Creación de Páginas Web con ChatGPT",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-landing-creacion-paginas-web-chatgpt_badge-61bbf015-8fe7-430f-b05f-a7c9ec7f6.png",
+        "opiniones": 73,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 8
+    },
+    {
+        "id": 15,
+        "nombre": "Curso de Creación de Páginas Web con Wordpress y No-code",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-creacion-paginas-web_badge-0cd3d090-b8a0-48ff-b2f9-5deabfdb51bb.png",
+        "opiniones": 557,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 4,
+        "practica": 10
+    },
+    {
+        "id": 16,
+        "nombre": "Curso de Creación de Blogs con WordPress",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-creacion-blogs-wordpress-ca7a391a-878c-4eb8-bd98-df4ffd23e760.png",
+        "opiniones": 1100,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 10
+    },
+    {
+        "id": 17,
+        "nombre": "Curso de Creación de Tiendas en Línea con WooCommerce",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badgewoocommerce-6e55db08-9562-4648-929e-bdf0104ee3cc.png",
+        "opiniones": 1198,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 12
+    },
+    {
+        "id": 18,
+        "nombre": "Curso de Configuración de Entorno de Desarrollo en Windows",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-prework-desarrollo-entornos-windows_badge-45dec17f-fe5f-47fb-b2c5-f36635b054.png",
+        "opiniones": 354,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 10
+    },
+    {
+        "id": 19,
+        "nombre": "Curso de Frontend Developer",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-curso-frontend-developer-825407d1-49b1-4c9b-90c4-eee793720ede.png",
+        "opiniones": 7750,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 12
+    },
+    {
+        "id": 20,
+        "nombre": "Curso Práctico de Frontend Developer",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-curso-practico-frontend-developer-d28c2eb0-cd3e-4951-bb96-5f1bcab2add5.png",
+        "opiniones": 4525,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 10
+    },
+    {
+        "id": 21,
+        "nombre": "Curso Básico de JavaScript",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-basicojs-e2ead888-428e-4f55-962c-8894aeaeacda.png",
+        "opiniones": 19312,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 16
+    },
+    {
+        "id": 22,
+        "nombre": "Curso Práctico de JavaScript",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/practico-javascript_badge-fb533fa5-73c8-4f75-9d81-0294d9013ab5.png",
+        "opiniones": 1822,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 7,
+        "practica": 12
+    },
+    {
+        "id": 23,
+        "nombre": "Curso de ECMAScript: Historia y Versiones de JavaScript",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-escmascript-historia-92707485-a3f2-4946-91f0-fb0291f5887d.png",
+        "opiniones": 566,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 4,
+        "practica": 22
+    },
+    {
+        "id": 24,
+        "nombre": "Curso de Asincronismo con JavaScript",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-asincro-js-9f17b092-47d0-4c8a-a59d-67714aa18db3.png",
+        "opiniones": 965,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 4,
+        "practica": 14
+    },
+    {
+        "id": 25,
+        "nombre": "Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-npm-js-c48fb4c0-a4d3-4773-b3ca-e9f25c543d0e.png",
+        "opiniones": 414,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 10
+    },
+    {
+        
     }
+    
+
+    
+    
+    
 ]
