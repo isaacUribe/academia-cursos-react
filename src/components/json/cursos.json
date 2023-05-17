@@ -226,7 +226,229 @@
         "practica": 10
     },
     {
-        
+        "id": 26,
+        "nombre": "Curso de React.js",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-landing-introduccion-react-js_badge-5cb7b891-69d3-4de4-bdab-1641b4c30312.png",
+        "opiniones": 21,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 9,
+        "practica": 16
+    },
+    {
+        "id": 27,
+        "nombre": "Curso de React.js con Vite.js y TailwindCSS",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-curso-react-vite-8cd23e27-eebb-4dcc-aeb7-cc83924080eb.png",
+        "opiniones": 4,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 6,
+        "practica": 14
+    },
+    {
+        "id": 28,
+        "nombre": "Prueba Técnica: E-commerce Profesional con React.js",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/image-94985c6e-d631-4f24-a315-ce777d771ada.png",
+        "opiniones": 3,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 6
+    },
+    {
+        "id": 29,
+        "nombre": "Curso Práctico de Next.js",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-practico-next-js--cb0ccb8f-efa3-40a8-b91f-8cf5a4d51eeb.png",
+        "opiniones": 266,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 8
+    },
+    {
+        "id": 30,
+        "nombre": "Curso Profesional de Next.js",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-profesional-nextjs_badge-c9a806c6-e240-45da-81da-c206b0611e84.png",
+        "opiniones": 164,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 5,
+        "practica": 12
+    },
+    {
+        "id": 31,
+        "nombre": "Curso para Conseguir Trabajo como Frontend Developer",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/conseguir-trabajo-frontend-developer-badge-f3b33ca1-ab2a-4bdd-9ef4-3b50934321af.png",
+        "opiniones": 377,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 10
+    },
+    {
+        "id": 32,
+        "nombre": "Curso de Introducción al Desarrollo Backend",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-interm-word-1d85df0c-f77d-44e8-aedd-dd8b4458b642.png",
+        "opiniones": 673,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 12
+    },
+    {
+        "id": 33,
+        "nombre": "Curso de Fundamentos de Bases de Datos",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "opiniones": 8518,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 8,
+        "practica": 18
+    },
+    {
+        "id": 34,
+        "nombre": "Curso de Fundamentos de Node.js",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-fundamentos-nodejs-8fd9c0f4-562a-48e9-a85a-3a7db0fa384b.png",
+        "opiniones": 3694,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 5,
+        "practica": 12
+    },
+    {
+        "id": 35,
+        "nombre": "Curso de Backend con Node.js: API REST con Express.js",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-backend-nodejs-apirest-expressjs-3fc7bca3-8dcb-459c-9638-12c92d502f5f.png",
+        "opiniones": 1990,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 12
+    },
+    {
+        "id": 36,
+        "nombre": "Curso de Backend con Node.js: Base de Datos con PostgreSQL",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/backend-node-82a9a4bf-7ce4-4437-86f6-c39dcce17d15.png",
+        "opiniones": 634,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 5,
+        "practica": 16
+    },
+    {
+        "id": 37,
+        "nombre": "Curso de Backend con Node.js: Autenticación con Passport.js y JWT",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-backend-nodejs-autenticacion-passportjs-jwt-3425c859-2f69-49a5-849a-792049d24.png",
+        "opiniones": 447,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 3,
+        "practica": 14
+    },
+    {
+        "id": 38,
+        "nombre": "Actividades Semanales de Práctica en Inglés",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-escuela-ing-e2e19fa3-d696-4960-bcd7-d1fe37a6b9df.png",
+        "opiniones": 325,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 2
+    },
+    {
+        "id": 39,
+        "nombre": "Curso Gratis de Estrategias para Aprender Inglés en Línea",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/aprender-ingles-online_badge-8a97002a-7427-4e19-862b-b155e9a57c25.png",
+        "opiniones": 14730,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 10
+    },
+    {
+        "id": 40,
+        "nombre": "Curso de Inglés Básico A1: Conversaciones Cortas y Habituales",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-basic-english-course-beginners_badge-4953fa05-f52d-4557-98e5-a64acf9f3827.png",
+        "opiniones": 31316,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 16
+    },
+    {
+        "id": 41,
+        "nombre": "Taller de Inglés Básico para Descripciones Personales",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-taller-ingles-principiantes_badge-1-56da5912-2828-48f3-9879-0ab93c1c3d3d.png",
+        "opiniones": 18076,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 10
+    },
+    {
+        "id": 42,
+        "nombre": "Curso de Inglés Básico A1 para Principiantes",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/curso-ingles-basico-a1-para-principiantes_badge-65b8b027-2451-488b-b282-80077d60d62.png",
+        "opiniones": 6421,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 12
+    },
+    {
+        "id": 43,
+        "nombre": "Taller de Inglés Básico sobre Elementos y Expresiones de Trabajo",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-basic-english-workshop-first-day-work_badge-d0a02f78-007c-4425-a96c-d9c7026c.png",
+        "opiniones": 3114,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 12
+    },
+    {
+        "id": 44,
+        "nombre": "Curso de Inglés Básico A1: Presente Simple y Vocabulario Común",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-curso-de-ingles-basico-a1-presente-simple-y-vocabulario-comun_badge-caf91072.png",
+        "opiniones": 11350,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 14 
+    },
+    {
+        "id": 45,
+        "nombre": "Taller de Inglés Básico sobre los Miembros de la Familia",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas_workshop-describing-family-members_badge-94a17c86-4fec-4cf2-8c02-fdd7d6e5715.png",
+        "opiniones": 2254,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 12
+    },
+    {
+        "id": 46,
+        "nombre": "Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-ing-basico-a1-fechas-cca042ae-b01f-45aa-bc0f-5469ff035e5a.png",
+        "opiniones": 8367,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 14
+    },
+    {
+        "id": 47,
+        "nombre": "Curso de Inglés Intermedio B1: Expresiones de Tiempo y Cantidad",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/intermediate-english-course-b1-expressions-of-time-and-quantity-badge-2214727e-22fa.png",
+        "opiniones": 365,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 12
+    },
+    {
+        "id": 48,
+        "nombre": "Taller de Inglés Intermedio para Viajes de Negocios",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/badge-taller-ing-b1-viaje-negocios-1-d73cdfec-607e-45c6-95ec-1cbe823eb5ba.png",
+        "opiniones": 83,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 1,
+        "practica": 10
+    },
+    {
+        "id": 49,
+        "nombre": "Curso de Inglés Intermedio B1: Descripción de Eventos y Preferencias",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/piezas-ingles-intermedio-b1-conectores-y-preferencias_badge-288a7868-fd49-4797-b433.png",
+        "opiniones": 1861,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 20
+    },
+    {
+        "id": 50,
+        "nombre": "Curso de Inglés Intermedio B1: Primer Condicional y Pasado Continuo",
+        "img": "https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/new-ingles-intermedio-verbos-infinitivos-transitivos-086b8c03-2894-48a1-b82f-5f0c34.png",
+        "opiniones": 109,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu congue lacus. Suspendisse placerat vehicula mollis. Aliquam suscipit lorem vel elit ullamcorper, ac malesuada neque congue. Phasellus semper elementum dui. ",
+        "contenido": 2,
+        "practica": 14
     }
     
 
