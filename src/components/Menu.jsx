@@ -4,10 +4,10 @@ import { Link } from 'react-router-dom'
 const Menu = () => {
   return (
     <header>
-        <nav>
+        <nav className='shadow'>
             <ul>
-                <li><Link to={'/'}>Home</Link></li>
-                <li><Link to={'/cursos'}>Cursos</Link></li>
+                <li><Link className='link' to={'/'}>Home</Link></li>
+                <li><Link className='link' to={'/cursos'}>Cursos</Link></li>
             </ul>
         </nav>
     </header>
