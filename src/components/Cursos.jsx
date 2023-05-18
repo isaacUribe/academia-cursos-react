@@ -19,21 +19,28 @@ const Cursos = () => {
     console.log(cursos)
     
   return (
-    <div>
+    <div >
         <Menu/>
-        <h1>Este es el listado de cursos</h1>
+        <h1 className='titulo'><strong>Este es el listado de cursos</strong></h1>
+        <section className='container-cursos'>
+        
         {
             cursos.map((curso)=>(
-                <section>
-                    <h1>{curso.nombre}</h1>
-                    <img src={curso.img}/>
-                    <h4>{curso.opiniones} Opiniones</h4>
-                    <p>{curso.descripcion}</p>
-                    <h4>{curso.contenido} horas de contenido</h4>
-                    <h4>{curso.practica} horas de preactica</h4>
+                <section className='card-cursos'>
+                    <section className='header-card'> 
+                        <img src={curso.img}/>
+                        <h1><strong>{curso.nombre}</strong></h1>
+                        <h5>{curso.opiniones} Opiniones</h5>
+                    </section>
+                    <section className='descripcion-card'>
+                        <p>{curso.descripcion}</p>
+                        <h4>{curso.contenido} horas de contenido</h4>
+                        <h4>{curso.practica} horas de preactica</h4>
+                    </section>
                 </section>
             ))
         }
+        </section>
     </div>
   )
 }

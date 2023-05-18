@@ -60,7 +60,7 @@ nav ul li{
     margin: 20px;
     padding: 20px;
 }
-.box strong{
+strong{
     color: #EFF3F8;
 }
 .contenedor-card-home{
@@ -77,4 +77,45 @@ nav ul li{
 .card-home img{
     width: 100%;
     height: 150px;
+}
+.titulo{
+    margin: 30px;
+}
+.container-cursos{
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+    margin: 20px auto;
+}
+.card-cursos{
+    display: flex;
+    width: 45%;
+    height: auto;
+    background: #40587C;
+    margin: 10px;
+    border-radius: 10px;
+}
+.header-card{
+    border-right: 1px solid #91afdb;
+}
+.header-card, .descripcion-card{
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+.header-card img{
+    width: 150px;
+}
+.header-card h1{
+    margin: 10px auto;
+}
+.header-card h5{
+    color: #1991FF;
+}
+.descripcion-card p{
+    margin: 10px auto;
+}
+.descripcion-card h4{
+    margin: 10px auto;
+    color: #1991FF;
 }
